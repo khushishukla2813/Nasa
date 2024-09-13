@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Language">Please Select Your Language</string>
+    <string name="L1">தமிழ்</string>
+    <string name="L2">English</string>
+    <string name="L3">हिंदी</string>
+    <string name="L4">বাংলা</string>
+    <string name="L5">తెలుగు</string>
+    <string name="L6">ಕನ್ನಡ</string>
+    <string name="Location">Enable Location Services</string>
+    <string name="Location_description">Your location will help us deliver tailored agricultural advice based on local weather patterns</string>
+    <string name="Skip">Skip</string>
+    <string name="Allow">Allow</string>
+    <string name="Location_icon">Location Icon</string>
+    <string name="Fix_Your_Crop_Issues">Fix Your Crop Issues</string>
+    <string name="Tree_ds">Take a pic</string>
+    <string name="Take_a_Picture">Take a Picture</string>
+    <string name="Pests_diseases"><![CDATA[Pests & diseases]]></string>
+    <string name="Get_Solution">Get Solution</string>
+    <string name="Analyze_Problem">Analyze Problem</string>
+    <string name="Snap_a_photo">Snap a Photo</string>
+    <string name="Result">Result</string>
+    <string name="Rice_Sheath_Blight">Rice Sheath Blight</string>
+    <string name="Symptoms">Symptoms</string>
+    <string name="Fungus">Fungus</string>
+    <string name="Symptoms_des">* Oval, green to grey water-soaked lesions on stalks.\n\n* Irregular grey to white lesions with brown margins on leaves and stalks.\n\nInitial symptoms of the disease are lesions on stalks (sheaths) near the waterline. These lesions are oval, greenish-grey, 1-3 cm long and water-soaked. These lesions grow irregularly and turn grey to white with brown margins. As the disease progresses, the upper parts of the plant are infected. On these parts, rapidly growing lesions appear and the whole leaf brightens. This can result in the death of the leaf and the whole plant. Furthermore, fungal pustules form on the plant surface.</string>
+    <string name="See_treatment">See treatment</string>
+    <string name="Similar_results">Similar Results</string>
+    <string name="Home">Home</string>
+</resources>
